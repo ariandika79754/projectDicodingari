@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">MyAnimeApp</string>
+    <string name="anime_name">Nama Anime</string>
+    <string name="description">Deskripsi</string>
+    <string name="fullname">Nama Lengkap</string>
+    <string name="photoAnime">Foto Anime</string>
+    <string name="anime_generasion">Generasi Anime</string>
+    <string name="list">List</string>
+    <string name="nickname">Nama Panggilan</string>
+    <string name="labeltv">Halo saya Anime hebat</string>
+    <string name="grid">Grid</string>
+    <string name="about">About</string>
+    <string name="my_email">ariandika2345@gmail.com</string>
+    <string name="my_name">Ari Andika</string>
+
+    <string-array name="data_name">
+        <item>Brook</item>
+        <item>Tony Tony Chopper</item>
+        <item>Potogasu D.Ace</item>
+        <item>Franky</item>
+        <item>Monkey D. Luffy</item>
+        <item>Nami</item>
+        <item>Nico Robin</item>
+        <item>Vismoke Sanji</item>
+        <item>Shanks</item>
+        <item>Trafalgar Law</item>
+        <item>Usopp</item>
+        <item>Roronoa Zoro</item>
+
+    </string-array>
+
+    <string-array name="data_nicknames">
+        <item>Brook, Bonekichi</item>
+        <item>Chopper</item>
+        <item>Ace</item>
+        <item>Franky, Franosuke</item>
+        <item>Luffy, Luci</item>
+        <item>O-Nami</item>
+        <item>Miss All Sunday, O-Robi</item>
+        <item>Sangoro</item>
+        <item>Shanks</item>
+        <item>Law</item>
+        <item>Usomachi</item>
+        <item>zoro</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Brook adalah seorang musisi di kapal Kelompok Bajak Laut Topi Jerami. Dia adalah tengkorak yang mereka temukan di kapal hantu. Dia pengguna buah iblis Yomi Yomi no Mi yang membuatnya bisa hidup abadi. Dia adalah Kru Topi Jerami yang ke sembilan dan orang ke delapan yang setuju bergabung dengan Kru Luffy. </item>
+        <item>Chopper berperan sebagai dokter di bajak laut Topi Jerami. Ia merupakan satu-satunya pemakan buah setan tipe Zoa, yakni Hito Hito yang menjadikannya bisa berubah jadi berbagai macam bentuk. Chopper memiliki sifat yang sangat baik dan suka menolong, namun ketika dipuji orang lain, Ia bakal mengeluarkan kata-kata umpatan kasar, meski sebenarnya ekspresinya senang.</item>
+        <item>Portgas D. Ace adalah saudara angkat Luffy dan Sabo di One Piece. Saat dia muncul di Alabasta, dia tampak sebagai sosok yang bersahabat tapi juga kuat. Smoker, yang sebelum itu bisa mengalahkan Sanji dan Luffy di manga, ditahannya dengan kekuatan api. Ia juga kemudian menghancurkan banyak kapal dengan mudah.</item>
+        <item>Franky adalah cyborg yang konyol dan bodoh. Franky selalu melakukan pose-pose yang aneh ketika akan beraksi. Franky juga pemarah dan akan serius jika masalah yang ditanggapinya serius. Dia juga gampang menangis walaupun mungkin itu adalah salah satu kelakuan konyolnya.</item>
+        <item>Luffy, juga dikenal sebagai "Luffy Topi Jerami" dan umumnya sebagai "Topi Jerami", adalah pendiri dan kapten dari Bajak Laut Topi Jerami yang semakin terkenal dan kuat, serta yang paling kuat dari petarung topnya.</item>
+        <item>Nami merupakan navigator dan juga ahli cuaca dari bajak laut Topi Jerami. Meski tak memiliki kekuatan fisik yang terlalu hebat, namun Ia punya kemampuan unik, yakni mengontrol cuaca dan menjadikannya senjata mematikan lewat bantuan clima tact miliknya. Nami adalah orang ke-2 yang bergabung dalam Topi Jerami setelah Zoro. Ia dikenal sebagai sosok yang sangat gila uang dan bakal tak ragu-ragu merampok targetnya secara diam-diam. Nami juga digambarkan sebagai sosok wanita cantik dengan tubuh aduhai seksinya, yang sering membuat Sanji klepek-klepek. Bounty miliknya seharga 66 juta berry.</item>
+        <item>Nico Robin merupakan Archaeologist dari Topi Jerami. Ia merupakan pemakan buah iblis Hana-Hana yang membuatnya bisa mengeluarkan banyak tangan di berbagai tempat yang dinginkan. Sifatnya sangat kalem dan lemah lembut. Ia sering mengeluarkan kata-kata bernada psikopat namun tetap mempertahankan ekspresi cool dan girly.</item>
+        <item>Sanji merupakan tukang masak atau koki dari bajak laut Topi Jerami. Ia digambarkan sebagai seorang playboy tampan yang sangat mudah jatuh hati pada setiap wanita cantik yang Ia temui. Ia bahkan punya prinsip untuk tidak pernah memukul wanita, meskipun itu musuh, apapun alasannya. Mimpi utamanya adalah menemukan All Blue, yang merupakan surganya para koki seluruh dunia. Meski berstatus sebagai tukang masak, namun Sanji juga sangat jago dalam pertarunga. Bahkan ia adalah orang ke-3 terkuat dalam kru bajak laut Topi Jerami. Uniknya lagi, Ia tak pernah mengenakan tangan ketika bertarung, karena Ia tak mau mengotori tangannya yang terbiasa dipakai untuk memasak dengan darah.</item>
+        <item>Shanks adalah seorang pendekar pedang dan dia menggunakan pedang bernama. Nama pedang Shanks adalah Gryphon. Saat ini, tidak ada informasi tentang nilai Gryphon, dan selanjutnya tidak diketahui apakah itu Meito atau bukan. Shanks bukanlah bajak laut yang sangat kuat sejak awal hidupnya.</item>
+        <item>Law mempunyai memori masa kecil kelam di North Blue yang menjadi tempat para bajak laut yang kejam. Ia menjadi satu-satu orang yang selamat dari bencana ledakan di Flevance dan kemudian bergabung dengan keluarga Donquixote.</item>
+        <item>Usopp merupakan anggota Topi Jerami yang sangat lihai membidik sasaran dari jarak jauh (sniper). Awalnya, dilabeli sebagai pembohong. Ia memang sering bermulut besar meski sebenarnya kemampuan bertarungnya tak begitu hebat. Namun seiring berjalannya waktu, Ia mulai mendapatkan julukan baru, yakni Sogeking.Setelah event Dressosa, kepala Usopp dihargai 200 juta berry, yang menjadikannya orang ke-3 di Topi Jerami dengan bounty terbesar. Padahal sebelum itu, harga kepalanya cuma 30 juta saja. Harganya langsung meroket karena Ia dianggap sebagai dewa penyelamat oleh para penduduk Dressrosa.</item>
+        <item>Zoro adalah pria tinggi berotot dengan kulit berwarna coklat cerah. Dia selalu membawa ketiga pedangnya, terbungkus dengan haramaki berwarna hijau di atas pinggul kanannya, sehingga dia dengan mudah menarik pedang menggunakan tangan kiri.</item>
+    </string-array>
+
+    <string-array name="data_label">
+        <item>Cita-cita: Meneruskan perjalanan hingga Raftel, pulau ujung dunia dan berjanji akan kembali lagi menemui Laboon</item>
+        <item>Cita-cita: Menjadi dokter hebat dan menyembuhkan seluruh penyakit</item>
+        <item>Cita:cita Menjadi Bajak Laut hebat tetapi dalam pertempuran besar di Marineford, Portgas D. Ace akhirnya tewas ditangan Laksamana Akainu demi melindungi adiknya, Monkey D. Luffy.</item>
+        <item>Cita-cita: Membuat kapal terhebat di dunia dengan Kayu Adam yang Legendaris yang nantinya akan mengarungi lautan luas dan dikenal sebagai kapal Raja bajak laut</item>
+        <item>Cita-cita: Menjadi Raja Bajak Laut</item>
+        <item>Cita-cita: Membuat peta dunia one piece</item>
+        <item>Cita-cita: Menemukan dan memecahkan rahasia dari Rio Poneglyph yaitu sejarah abad kekosongan</item>
+        <item>Cita-cita: Menemukan All Blue</item>
+        <item>Cita-cita menginspirasi Luffy untuk melakukan perjalanannya sebagai bajak laut</item>
+        <item>Cita-cita ingin menjadi dokter hebat dengan kekuatannya</item>
+        <item>Cita-cita: Menjadi pahlawan pemberani di seluruh penjuru lautan seperti Yassop ayahnya</item>
+        <item>Cita-cita: Pendekar nomor satu di dunia One Piece</item>
+    </string-array>
+
+    <integer-array name="data_generation">
+        <item>383000000</item>
+        <item>1000</item>
+        <item>550000000</item>
+        <item>394000000</item>
+        <item>396000000</item>
+        <item>344000000</item>
+        <item>334000000</item>
+        <item>365000000</item>
+        <item>380000000</item>
+        <item>369000000</item>
+        <item>300000000</item>
+        <item>390000000</item>
+    </integer-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/brook</item>
+        <item>@drawable/chooper</item>
+        <item>@drawable/d_ace</item>
+        <item>@drawable/franky</item>
+        <item>@drawable/luffy</item>
+        <item>@drawable/nami</item>
+        <item>@drawable/robin</item>
+        <item>@drawable/sanji</item>
+        <item>@drawable/shanks</item>
+        <item>@drawable/law</item>
+        <item>@drawable/usop</item>
+        <item>@drawable/zoro</item>
+    </integer-array>
+
+</resources>
+

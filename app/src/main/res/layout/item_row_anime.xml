@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/card_view"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:layout_marginStart="8dp"
+    android:layout_marginTop="4dp"
+    android:layout_marginEnd="8dp"
+    android:layout_marginBottom="4dp"
+    card_view:cardCornerRadius="4dp">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp">
+
+        <ImageView
+            android:id="@+id/imageDetail"
+            android:layout_width="70dp"
+            android:layout_height="100dp"
+            tools:src="@tools:sample/avatars"
+            card_view:layout_constraintBottom_toBottomOf="parent"
+            card_view:layout_constraintStart_toStartOf="parent"
+            card_view:layout_constraintTop_toTopOf="parent"
+            android:contentDescription="@string/photoAnime" />
+
+        <TextView
+            android:id="@+id/nameDetailTv"
+            style="@style/Theme.AppCompat"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginEnd="8dp"
+            card_view:layout_constraintEnd_toEndOf="parent"
+            card_view:layout_constraintStart_toEndOf="@+id/imageDetail"
+            card_view:layout_constraintTop_toTopOf="@+id/imageDetail"
+            tools:text="@string/anime_name" />
+
+        <TextView
+            android:id="@+id/generation_tv"
+            style="@style/Theme.AppCompat"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="@string/anime_generasion"
+            card_view:layout_constraintEnd_toEndOf="@id/nameDetailTv"
+            card_view:layout_constraintHorizontal_bias="0.0"
+            card_view:layout_constraintStart_toStartOf="@+id/nameDetailTv"
+            card_view:layout_constraintTop_toBottomOf="@+id/nameDetailTv" />
+
+        <TextView
+            style="@style/Theme.AppCompat"
+            android:id="@+id/label_tv"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_marginTop="4dp"
+            android:ellipsize="end"
+            android:textStyle="italic"
+            card_view:layout_constraintBottom_toBottomOf="@+id/imageDetail"
+            card_view:layout_constraintEnd_toEndOf="@+id/generation_tv"
+            card_view:layout_constraintStart_toStartOf="@+id/generation_tv"
+            card_view:layout_constraintTop_toBottomOf="@+id/generation_tv"
+            tools:text="@string/labeltv" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.cardview.widget.CardView>
